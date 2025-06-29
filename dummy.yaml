@@ -24,7 +24,7 @@ metadata:
 spec:
   type: service # Type of the component (e.g., service, website, library)
   lifecycle: experimental # Lifecycle stage (e.g., experimental, production, deprecated)
-  owner: default/team-a # The team responsible for this service (references a Group entity)
+  owner: gopalsable # The team responsible for this service (references a Group entity)
   system: my-dummy-system # The system this service belongs to (references a System entity)
   consumesApis:
     - my-dummy-api # References an API entity that this service consumes
