@@ -30,5 +30,4 @@ spec:
     - my-dummy-api # References an API entity that this service consumes
   providesApis:
     - my-dummy-api-v1 # References an API entity that this service provides
-  dependsOn:
-    - resource:default/my-dummy-database # References a Resource entity this service depends on
+ 
