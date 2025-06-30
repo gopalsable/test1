@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: test-node-1
+  description: Testing container node
+  tags: [docker, test]
+spec:
+  type: container-node
+  owner: user:myuser
+  lifecycle: experimental
+  endpoint: http://node.example.com
