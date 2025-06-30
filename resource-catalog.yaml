@@ -7,6 +7,6 @@ metadata:
 spec:
   type: container-node
   owner: 
-    user: Gopal-Sable
+    user: gopalsable
   lifecycle: experimental
   endpoint: http://node.example.com
