@@ -6,6 +6,7 @@ metadata:
   tags: [docker, test]
 spec:
   type: container-node
-  owner: Gopal-Sable
+  owner: 
+    user: Gopal-Sable
   lifecycle: experimental
   endpoint: http://node.example.com
