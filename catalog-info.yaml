@@ -9,6 +9,6 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Gopal-Sable
+  name: GopalSable
 spec:
   memberOf: []
