@@ -1,14 +1,14 @@
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: gopalsable
-spec:
-  memberOf: []
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: G-Sable
-spec:
-  memberOf: []
+# ---
+# apiVersion: backstage.io/v1alpha1
+# kind: User
+# metadata:
+#   name: gopalsable
+# spec:
+#   memberOf: []
+# ---
+# apiVersion: backstage.io/v1alpha1
+# kind: User
+# metadata:
+#   name: G-Sable
+# spec:
+#   memberOf: []
